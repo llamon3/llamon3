@@ -3,7 +3,7 @@
  
 **llamon3/llamon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some items to view:
 
 - 🔭 I’m currently working on a website migration
 - 🌱 I’m currently learning how to use github. You could say it's about time.
